@@ -1,0 +1,85 @@
+{
+  "code": "KOOKJE",
+  "title": "SMASH KOOKJE",
+  "school": "국제대",
+  "fullName": "국제대학교",
+  "campusName": "국제대학교",
+  "tagline": "국제대를 부셔 (시험기간 스트레스 해소)",
+  "description": "국제대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 국제대학교 3D 화면과 SMASH KOOKJE 제목",
+  "url": "https://hong-iron.github.io/SMASH-KOOKJE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 518713120
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.0637718,
+        127.0801254
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 이 자리는 사진에서 나무와 작은 정원뿐이고, 같은 크기의 등록 도형이 바로 남쪽 실습동(6번) 위에도 하나 더 있어 잘못 옮겨 그려진 기록으로 보인다."
+    },
+    {
+      "at": [
+        37.0649716,
+        127.0793918
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 충효관 서쪽 길가의 주차 줄 위에 그려진 기록인데 사진에는 세워 둔 차만 보이고 건물이 없다."
+    },
+    {
+      "at": [
+        37.0634363,
+        127.0808765
+      ],
+      "n": "도서관동",
+      "why": "항공사진에 없음 — 도서관동 기록이 놓인 자리는 사진에서 주차장과 분수 광장뿐이고, 학교 안내에 따르면 도서관은 충효관과 신의관 사이 지하(1번 건물 안)에 있다."
+    },
+    {
+      "at": [
+        37.0657546,
+        127.0809485
+      ],
+      "n": "운동장본부석",
+      "why": "같은 건물 겹침 — 운동장본부석 기록이 빈 광장과 나무줄 위에 그려졌고, 실제 본부석 지붕은 바로 동쪽의 8번이다."
+    }
+  ],
+  "look": {
+    "체육관/교사동(창조관)": {
+      "style": "brick",
+      "wall": "#a65a49",
+      "glass": "#3a4446",
+      "frame": "#e5e7e8"
+    },
+    "기숙사동": {
+      "style": "dorm",
+      "wall": "#e6e6e0",
+      "glass": "#6f9a8f",
+      "frame": "#f0f0ea"
+    },
+    "국제관": {
+      "style": "brick",
+      "wall": "#c7998a",
+      "glass": "#4f6f78",
+      "frame": "#e2e0dc"
+    },
+    "지성관": {
+      "style": "brick",
+      "wall": "#93625a",
+      "glass": "#2f5f6a",
+      "frame": "#e6e6e6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
